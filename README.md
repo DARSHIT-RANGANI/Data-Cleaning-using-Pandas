@@ -1,6 +1,6 @@
 # Employee-Data-Cleaning
 
-# 👥 Professional Employee Data Cleaning Pipeline
+# 👥 Employee Data Cleaning
 
 **Transform messy HR data into production-ready analytics** with this complete Pandas notebook. Converts 1,020 records of raw employee data into clean, structured CSV for dashboards, ML models, and databases.
 
